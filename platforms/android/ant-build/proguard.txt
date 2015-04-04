@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.pylonproducts.wifitest.MainActivity { <init>(...); }
+-keep class com.app_o_mat.jqm_cordova_template_project.MainActivity { <init>(...); }
 
